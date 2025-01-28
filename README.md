@@ -54,10 +54,6 @@
 <h3 >📫 Contact 📫</h3>
 <div >
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge" />&nbsp 
-  <a href="mailto:megormin@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 
 ---
