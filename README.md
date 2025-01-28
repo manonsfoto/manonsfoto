@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=E5F5F7&background=FF1111CF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Minyeong%F0%9F%98%81;Your+Frontend+Developer%F0%9F%AA%84)](https://git.io/typing-svg)
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Rezept_Supabase)](https://github.com/manonsfoto/Rezept_Supabase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Weather_App)](https://github.com/manonsfoto/Weather_App)
+
 --- 
 <h3>✨ Tech Stack ✨</h3>
 <div > 
@@ -61,3 +59,9 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Rezept_Supabase)](https://github.com/manonsfoto/Rezept_Supabase)
+![1Searchbar](https://github.com/user-attachments/assets/f7adebde-503a-4c66-98ec-177d7632e051)
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Weather_App)](https://github.com/manonsfoto/Weather_App)
