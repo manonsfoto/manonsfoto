@@ -61,3 +61,4 @@
 ![1Searchbar](https://github.com/user-attachments/assets/f7adebde-503a-4c66-98ec-177d7632e051)
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Weather_App)](https://github.com/manonsfoto/Weather_App)
+![Weather_app](https://github.com/user-attachments/assets/5b999b14-596d-4240-994e-2e24dbfcb624)
