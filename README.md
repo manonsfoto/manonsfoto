@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp 
    </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manonsfoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manonsfoto&layout=compact)
   
 ---
 <h3>📚 Studying 📚</h3>
