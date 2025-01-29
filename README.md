@@ -23,21 +23,11 @@
   <img src="https://img.shields.io/badge/testinglibrary-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp 
    </div>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manonsfoto&layout=compact)
-  
----
-<h3>📚 Studying 📚</h3>
-<div >
-   <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>&nbsp 
-  </div>
- <br>
-<h3 >🛠 Tools 🛠</h3>
 <div >
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp
 </div>
 
 <div >
@@ -49,6 +39,15 @@
 <div >
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
     <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>&nbsp     
+  </div>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manonsfoto&layout=compact)
+  
+---
+<h3>📚 Studying 📚</h3>
+<div >
+   <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>&nbsp 
   </div>
  <br>
 <h3 >📫 Contact 📫</h3>
