@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=E5F5F7&background=FF1111CF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Minyeong%F0%9F%98%81;Your+Frontend+Developer%F0%9F%AA%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Minyeong%F0%9F%98%81;Your+Frontend+Developer%F0%9F%AA%84)](https://git.io/typing-svg)
 
 --- 
 <h3>✨ Tech Stack ✨</h3>
