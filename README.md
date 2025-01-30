@@ -56,7 +56,7 @@
 </div>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Rezept_Supabase)](https://github.com/manonsfoto/Rezept_Supabase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Die_Rezeptwelt_Supabase)](https://github.com/manonsfoto/Die_Rezeptwelt_Supabase)
 ![1Searchbar](https://github.com/user-attachments/assets/f7adebde-503a-4c66-98ec-177d7632e051)
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Weather_App)](https://github.com/manonsfoto/Weather_App)
