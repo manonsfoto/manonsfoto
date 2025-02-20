@@ -53,8 +53,7 @@
 ---
 <h3>📚 Studying 📚</h3>
 <div >
-   <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>&nbsp 
   </div>
  <br>
 <h3 >📫 Contact 📫</h3>
