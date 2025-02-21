@@ -6,8 +6,7 @@
 <div > 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/></a>&nbsp 
- 
+ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>&nbsp 
   <br>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"/></a>&nbsp
@@ -17,13 +16,13 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/daisyui-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>&nbsp 
   
   <br>     
 
    </div>
    <h5>Backend</h5>
    <div > <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>&nbsp  
+    <img src="https://img.shields.io/badge/sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white"/></a>&nbsp  
   </div>
    <h5>Tools & Tests</h5>
    <div >
@@ -35,17 +34,16 @@
 </div>
 <div >
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>&nbsp 
   </div>
 
 <div >
   <img src="https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/testinglibrary-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>&nbsp     
   </div>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manonsfoto&layout=compact)
