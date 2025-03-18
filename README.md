@@ -49,11 +49,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manonsfoto&layout=compact)
   
 ---
-<h3>📚 Studying 📚</h3>
-<div >
-     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>&nbsp 
-  </div>
- <br>
+
 <h3 >📫 Contact 📫</h3>
 <div >
     <a href="mailto:megormin@gmail.com">
@@ -62,14 +58,14 @@
   </a>
 </div>
 
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Die_Rezeptwelt_Supabase)](https://github.com/manonsfoto/Die_Rezeptwelt_Supabase)
+
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cadeteandre&repo=Morent-CarRental)](https://github.com/cadeteandre/Morent-CarRental)
 ![Filtering](https://github.com/user-attachments/assets/81f07888-9a98-420b-8c83-d629b040f058)
 
-
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Die_Rezeptwelt_Supabase)](https://github.com/manonsfoto/Die_Rezeptwelt_Supabase)
-![1Searchbar](https://github.com/user-attachments/assets/f7adebde-503a-4c66-98ec-177d7632e051)
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Weather_App)](https://github.com/manonsfoto/Weather_App)
