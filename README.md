@@ -65,9 +65,11 @@
 ---
 <h3>Featured Projects</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Die_Rezeptwelt_Supabase)](https://github.com/manonsfoto/Die_Rezeptwelt_Supabase)
+
 
 **Die Rezeptwelt** 
+![Favorite](https://github.com/user-attachments/assets/578ec085-148e-4dac-9313-7d2ae3510db8)
+
 - A comprehensive German-language recipe management application built as a solo project.<br/>This fully responsive web app allows users to discover, save, and organize recipes<br/> while maintaining a personalized grocery shopping list.
 
 **Key Features:**
@@ -88,13 +90,16 @@
 
 **As a Solo Developer:** Designed the architecture, developed all features, and implemented the entire UI/UX of the application independently, demonstrating end-to-end development capabilities from front-end design to back-end integration.
 
-[Live Demo](https://rezept-supabase.netlify.app/) | [Repository](https://github.com/manonsfoto/Die_Rezeptwelt_Supabase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manonsfoto&repo=Die_Rezeptwelt_Supabase)](https://github.com/manonsfoto/Die_Rezeptwelt_Supabase) | [Live Demo](https://rezept-supabase.netlify.app/)
 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cadeteandre&repo=Morent-CarRental)](https://github.com/cadeteandre/Morent-CarRental)
+
 
 **Morent** 
+![Filtering](https://github.com/user-attachments/assets/81f07888-9a98-420b-8c83-d629b040f058)
+
+
 - A modern car rental platform built collaboratively with a team of developers. <br/>This full-featured application allows users to browse, filter, and rent vehicles with a sleek, responsive interface.
 
 **Key Features:**
@@ -121,7 +126,7 @@
 - Engineered header functionality including navigation and business logic
 - Created payment form with Supabase integration for data persistence
 
-![Filtering](https://github.com/user-attachments/assets/81f07888-9a98-420b-8c83-d629b040f058)
 
-[Live Demo](https://morent-carrental.netlify.app/) | [Repository](https://github.com/cadeteandre/Morent-CarRental)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cadeteandre&repo=Morent-CarRental)](https://github.com/cadeteandre/Morent-CarRental) | [Live Demo](https://morent-carrental.netlify.app/)
 
