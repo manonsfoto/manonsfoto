@@ -77,7 +77,7 @@
 - Recipe creation functionality allowing users to add their own recipes to the platform
 - Interactive grocery list management with item status tracking
 - User profile with account details and activity history
-- 
+  
 **Tech Stack:** React, TypeScript, Tailwind CSS, Supabase, Zustand, Zod, React Router
   
 **Technical Achievements:**
@@ -125,11 +125,3 @@
 
 [Live Demo](https://morent-carrental.netlify.app/) | [Repository](https://github.com/cadeteandre/Morent-CarRental)
 
----
-<h3 >Contact</h3>
-<div >
-    <a href="mailto:megormin@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
