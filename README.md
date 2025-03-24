@@ -116,7 +116,6 @@
 - Implemented responsive UI component library using Tailwind CSS for the entire application
 - Engineered complex header component with dynamic navigation and state management
 - Developed a secure payment form with validation and Supabase database integration
-- Created efficient database population system using CSV data imports
 - Applied responsive design principles to ensure optimal display across all device sizes
 - Identified and resolved critical UI and functionality bugs to improve application stability
 
